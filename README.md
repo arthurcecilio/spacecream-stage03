@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://arthurcecilio.github.io/spacecream-stage03/)
 
 
 ## 🔖 Layout
